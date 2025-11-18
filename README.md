@@ -9,7 +9,7 @@ Bu çalışma, bir ders sunumu kapsamında tarafımdan gerçekleştirilen **maka
 
 Çalışma, Masked Autoencoders (MAE) yöntemini, **minimal endüktif önyargılarla** (minimal domain knowledge) video verilerinden güçlü uzay-zamansal (spatiotemporal) temsiller öğrenmek için genişletir. Makale, video verisinin yüksek bilgi yedekliliği nedeniyle optimal maskeleme oranının **%90** olduğunu ve bu sayede seyrek kodlayıcı tasarımı ile **4.1 kat hızlanma** sağlandığını gösterir.
 
-## 🧑‍🎓 Benim Katkım
+## 👩‍🔬 Benim Katkım
 
 * Makalenin derinlemesine **analiz edilmesi** ve ana bulguların, güçlü/zayıf yönlerin belirlenmesi.
 * Akademik sunum formatına uygun, kapsamlı **sunum içeriğinin tasarlanması ve hazırlanması**.
